@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80" role="img" aria-labelledby="title desc">
+  <title id="title">Visit my blog — victoryeah.com</title>
+  <desc id="desc">A cyan and pink pixel button on a deep blue background.</desc>
+  <g shape-rendering="crispEdges">
+    <path fill="#b361bb" d="M10 12h342v60H10z"/>
+    <path fill="#74e6ed" d="M4 6h342v60H4z"/>
+    <path fill="#071b32" d="M8 10h334v52H8z"/>
+    <path fill="#17435b" d="M12 14h326v2H12zm0 42h326v2H12z"/>
+    <path fill="#bc80ca" d="M24 28h4v4h-4zm4-4h4v4h-4zm0 8h4v4h-4zm4-4h4v4h-4z"/>
+    <path fill="#74e6ed" d="M312 26h4v4h-4zm4 4h4v4h-4zm-12 4h20v4h-20zm12 4h4v4h-4zm-4 4h4v4h-4z"/>
+  </g>
+  <g text-anchor="middle" font-family="'Courier New', monospace">
+    <text x="176" y="32" fill="#9bf8f3" font-size="16" font-weight="700" letter-spacing="1">VISIT MY BLOG</text>
+    <text x="176" y="51" fill="#caa1df" font-size="13">victoryeah.com</text>
+  </g>
+</svg>
