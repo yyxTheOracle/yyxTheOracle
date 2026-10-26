@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="39" viewBox="0 0 92 39" role="img" aria-labelledby="title">
+  <title id="title">Life notes</title>
+  <g shape-rendering="crispEdges">
+    <path fill="#955caa" d="M4 4h88v31H4z"/>
+    <path fill="#63cfdc" d="M0 0h88v31H0z"/>
+    <path fill="#091b32" d="M2 2h84v27H2z"/>
+    <path fill="#28516a" d="M4 4h80v2H4z"/>
+    <path fill="#bc87ca" d="M4 24h4v3H4zm76 0h4v3h-4z"/>
+  </g>
+  <text x="44" y="19" text-anchor="middle" fill="#a1eee8" font-family="'Courier New', monospace" font-size="8" font-weight="700">LIFE NOTES</text>
+</svg>

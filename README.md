@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Oh, hello there. I'm Victor. 👋</b><br>
-  I write code with Codex and make my own VTY Skills.
+  Some code here. More of me on the blog. 🐠
 </p>
 
 <p align="center">
@@ -16,7 +16,15 @@
 </p>
 
 <p align="center">
-  <img src="assets/stickers.svg" width="360" alt="Human + Codex · VTY Skills · Code Clarity">
+  <a href="https://www.victoryeah.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">
+    <img src="assets/frontend.svg" width="116" alt="Frontend articles">
+  </a>
+  <a href="https://www.victoryeah.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/">
+    <img src="assets/backend.svg" width="116" alt="Backend articles">
+  </a>
+  <a href="https://www.victoryeah.com/categories/%E9%9A%8F%E7%AC%94/">
+    <img src="assets/life-notes.svg" width="116" alt="Life notes">
+  </a>
 </p>
 
 <p align="center">
@@ -26,15 +34,14 @@
 <details>
   <summary>🫧 A little more, if you're curious</summary>
   <br>
-  <p>I started in frontend. These days, I also build Java and Go services with Codex, and take features through testing and release. 🛠️</p>
-  <p>I build tools for merchants and content creators. I've worked on campaign management, business dashboards, and desktop apps that save people from downloading reports by hand.</p>
-  <p>I also make VTY Skills for the tasks I keep coming back to: debugging, code review, and testing features with Codex.</p>
+  <p>I started in frontend. These days, I also work on backend services and desktop apps.</p>
+  <p>Outside work, I tinker with small projects and write about tech and life. I also maintain VTY Skills, my own collection of AI workflows for debugging, code review, and testing.</p>
+  <p>Have a look around — or head over to <a href="https://www.victoryeah.com/">the blog</a> for the longer stories.</p>
   <p>A couple of things I've written about, in Chinese:</p>
   <ul>
+    <li><a href="https://www.victoryeah.com/post/12e2a8de.html">Working with Go worker pools</a></li>
     <li><a href="https://www.victoryeah.com/post/db62fe35.html">Trying Matt Pocock's Skills</a></li>
-    <li><a href="https://www.victoryeah.com/post/2979ee1c.html">Testing a mini-program with Codex Computer Use</a></li>
   </ul>
-  <p>And some life stuff over at <a href="https://www.victoryeah.com/">victoryeah.com</a>. 🐠</p>
 </details>
 
 <!-- Layout inspired by github.com/sindresorhus; artwork and decorative assets were made for this profile. -->
