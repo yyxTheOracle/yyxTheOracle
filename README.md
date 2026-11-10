@@ -40,7 +40,7 @@
 - [Building a desktop automation tool with Electron and Puppeteer](https://www.victoryeah.com/post/electron-workflow-automation/)
 - [Learning Go concurrency through worker pools](https://www.victoryeah.com/post/go-worker-pool/)
 - [Trying Matt Pocock's Skills in real workflows](https://www.victoryeah.com/post/matt-pocock-skills-v1-1/)
-- [Back to my old school, ten years later](https://www.victoryeah.com/post/jincai-30th-anniversary/)
+- [Back to high school, ten years later](https://www.victoryeah.com/post/jincai-30th-anniversary/)
 
 <details>
   <summary>🫧 A little more, if you're curious</summary>
