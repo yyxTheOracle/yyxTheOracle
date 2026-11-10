@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Oh, hello there. I'm Victor. 👋</b><br>
-  Some code here. More of me on the blog. 🐠
+  A full-stack developer in Shanghai, with roots in frontend. 🐠
 </p>
 
 <p align="center">
@@ -31,17 +31,23 @@
   <img src="assets/bubbles.gif" width="800" alt="">
 </p>
 
+<p>I work mostly with React, TypeScript, Go, and Java, and enjoy bringing AI tools into everyday development.</p>
+
+<p><b>Code Clarity &gt; Code Brevity.</b> When something doesn't click, I read the source, build a small demo, and try to explain it in plain language. My blog is where I share what I learn along the way — from building software to figuring things out beyond the screen.</p>
+
+### A few things I've written · 中文
+
+- [Building a desktop automation tool with Electron and Puppeteer](https://www.victoryeah.com/post/electron-workflow-automation/)
+- [Learning Go concurrency through worker pools](https://www.victoryeah.com/post/go-worker-pool/)
+- [Trying Matt Pocock's Skills in real workflows](https://www.victoryeah.com/post/matt-pocock-skills-v1-1/)
+- [Back to my old school, ten years later](https://www.victoryeah.com/post/jincai-30th-anniversary/)
+
 <details>
   <summary>🫧 A little more, if you're curious</summary>
   <br>
-  <p>I started in frontend. These days, I also work on backend services and desktop apps.</p>
-  <p>Outside work, I tinker with small projects and write about tech and life. I also maintain VTY Skills, my own collection of AI workflows for debugging, code review, and testing.</p>
-  <p>Have a look around — or head over to <a href="https://www.victoryeah.com/">the blog</a> for the longer stories.</p>
-  <p>A couple of things I've written about, in Chinese:</p>
-  <ul>
-    <li><a href="https://www.victoryeah.com/post/12e2a8de.html">Working with Go worker pools</a></li>
-    <li><a href="https://www.victoryeah.com/post/db62fe35.html">Trying Matt Pocock's Skills</a></li>
-  </ul>
+  <p>Away from the keyboard: traveling, playing basketball, cheering for Steph Curry, and listening to Taylor Swift.</p>
+  <p>And yes, that's me in the diving photo — Phuket, 2019. 🐠</p>
+  <p><a href="https://www.victoryeah.com/about/">More about me →</a></p>
 </details>
 
 <!-- Layout inspired by github.com/sindresorhus; artwork and decorative assets were made for this profile. -->
