@@ -35,7 +35,7 @@
 
 <p><b>Code Clarity &gt; Code Brevity.</b> When something doesn't click, I read the source, build a small demo, and try to explain it in plain language. My blog is where I share what I learn along the way — from building software to figuring things out beyond the screen.</p>
 
-### A few things I've written · 中文
+### A few things I've written
 
 - [Building a desktop automation tool with Electron and Puppeteer](https://www.victoryeah.com/post/electron-workflow-automation/)
 - [Learning Go concurrency through worker pools](https://www.victoryeah.com/post/go-worker-pool/)
