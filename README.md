@@ -33,7 +33,7 @@
 
 <p>I work mostly with React, TypeScript, Go, and Java, and enjoy bringing AI tools into everyday development.</p>
 
-<p><b>Code Clarity &gt; Code Brevity.</b> When something doesn't click, I read the source, build a small demo, and try to explain it in plain language. My blog is where I share what I learn along the way — from building software to figuring things out beyond the screen.</p>
+<p>I like figuring out how things work, whether that means reading the source or putting together a small demo. I write about what I learn on my blog, with a few stories from everyday life mixed in.</p>
 
 ### A few things I've written
 
